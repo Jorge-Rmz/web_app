@@ -1,8 +1,6 @@
-let es pedir permiso o dar permiso para que alguien haga algo
-seem es decir algo como que alguien se mira de tal forma
-seem is parecer o dar la impresion de algo
-turn --- Girar, dar vueltas o dar vuelta
 Hold is Sostener o retenerClean the bagHelloClean de babClean de bag
 Hello
 This is a web todo
-
+turn
+migth
+hold
